@@ -1,6 +1,8 @@
 # fov.py
-fov.py - change FOV in csgo using very few lines. The method is most likely to not get detected by VAC.
-
+Change FOV in csgo using very few lines. ~~The method is most likely to not get detected by VAC.~~
+## Important
+Due to recent changes to CSGO, this cheat may be detected by VAC. 
+Please use this at your own risk.
 
 
 
